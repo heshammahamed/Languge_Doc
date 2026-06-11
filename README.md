@@ -32,9 +32,10 @@
 ```
   عرّف &lt;معرِّف&gt; : &lt;تعريف&gt;
 ```
+</div>
 
 ```
-</div>
+
 
  def &lt;identifier&gt; : &lt;definition&gt;
 ```
